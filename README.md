@@ -44,7 +44,7 @@ Click on the video (below) to watch the run through of the application
 <br>
 
 ## Link to video walk through
-<https://drive.google.com/file/d/1xJdBNxqQO_lgahdjoNyrdzFNvMrR-0vm/view>
+<iframe src="https://drive.google.com/file/d/1xJdBNxqQO_lgahdjoNyrdzFNvMrR-0vm/preview" width="640" height="480"></iframe>
 
 
 ## Link to Github
