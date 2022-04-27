@@ -39,7 +39,15 @@ You will then need to open your Insomnia app and run the posts, gets, puts and d
 <br>
 <br>
 <br>
-Click on the videos (below) to view the database seeding through the terminal as well as the full walkthrough of the database on Insomnia.
+Screenshot of seeding the database from the command line:
+<br>
+<br>
+<br>
+![screenshot](./public/images/screenshot2.png)
+<br>
+<br>
+<br>
+Click on the videos (below) to view the database seeding through the command line as well as the full walkthrough of the database on Insomnia.
 <br>
 <br>
 <br>
