@@ -31,19 +31,17 @@ Requires npm and uses express, dotenv, sequelize, MySQL2 and Insomnia (or Postma
 To get started, in your terminal, type in 'npm start'
 <br>
 <br>
-You will then need to open your Insomnia app and run the posts, gets, puts and deletes from there. Here is a screenshot to show how I set mine up:
-<br>
-<br>
-<br>
-![screenshot](./public/images/screenshot1.png)
-<br>
-<br>
 <br>
 Screenshot of seeding the database from the command line:
 <br>
 <br>
 <br>
 ![screenshot](./public/images/screenshot2.png)
+You will then need to open your Insomnia app and run the posts, gets, puts and deletes from there. Here is a screenshot to show how I set mine up:
+<br>
+<br>
+<br>
+![screenshot](./public/images/screenshot1.png)
 <br>
 <br>
 <br>
