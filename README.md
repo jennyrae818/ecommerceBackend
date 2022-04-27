@@ -10,9 +10,11 @@
 
 * [Technologies Used](#technologies)
 
-* [User Guide](#User-Guide)
+* [User Guide](#user-guide)
 
-* [LinkToSite](#LinkToSite)
+* [Link To Video](#videolink)
+
+* [Link To Github](#githublink)
 
 * [Questions](#questions)
 
@@ -26,7 +28,6 @@ This app allows a user who is owns or works for a company that sells/posts items
 Requires npm and uses express, dotenv, sequelize, MySQL2 and Insomnia (or Postman)
 
 ## User-Guide
-
 To get started, in your terminal, type in 'npm start'
 <br>
 <br>
@@ -43,13 +44,13 @@ Click on the video (below) to watch the run through of the application
 <br>
 <br>
 
-## Link to video walk through
-<iframe src="https://drive.google.com/file/d/1xJdBNxqQO_lgahdjoNyrdzFNvMrR-0vm/preview" width="640" height="480"></iframe>
+## VideoLink
+<https://drive.google.com/file/d/1xJdBNxqQO_lgahdjoNyrdzFNvMrR-0vm/preview>
 
 
-## Link to Github
+## GithubLink
 <https://github.com/jennyrae818/ecommerceBackend>
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact [jenny](undefined) directly at jennyrae818@gmail.com.
+If you have any questions about the repo, open an issue or contact [Jenny](undefined) directly at jennyrae818@gmail.com.
