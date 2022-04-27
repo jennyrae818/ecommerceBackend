@@ -39,13 +39,20 @@ You will then need to open your Insomnia app and run the posts, gets, puts and d
 <br>
 <br>
 <br>
-Click on the video (below) to watch the run through of the application 
+Click on the videos (below) to view the database seeding through the terminal as well as the full walkthrough of the database on Insomnia.
 <br>
 <br>
 <br>
 
 ## VideoLink
+Demonstration of Seeding the Database:
+<br>
+<https://drive.google.com/file/d/1j7TjqinBAt51zzDx8Ip2qdn-lVqfqmrW/view>
+<br>
+Insomnia Walkthrough:
+<br>
 <https://drive.google.com/file/d/1xJdBNxqQO_lgahdjoNyrdzFNvMrR-0vm/preview>
+
 
 
 ## GithubLink
