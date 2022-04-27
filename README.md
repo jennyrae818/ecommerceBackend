@@ -19,55 +19,36 @@
 
 ## Description
 
-This app allows a user who is a manager of a company to add employees, roles, salaries and departments to a database.  
+This app allows a user who is owns or works for a company that sells/posts items to add, update and delete products from a database. There are also categories for the products as well as tags for the products that can also be added, updated and deleted. 
 
 
 ## Technologies
-node.js, Inquirer, MySQL2
+Requires npm and uses express, dotenv, sequelize, MySQL2 and Insomnia (or Postman)
 
 ## User-Guide
 
-To get started, in your terminal, type in 'node questions'
+To get started, in your terminal, type in 'npm start'
 <br>
 <br>
-You will be presented with options of what you would like to do? To select a choice you will use the arrows on your keyboard and hit enter when you are ready to move forward. 
-<br>
-<br>
-<br>
-![screenshot](./public/assets/screenshot1.png)
+You will then need to open your Insomnia app and run the posts, gets, puts and deletes from there. Here is a screenshot to show how I set mine up:
 <br>
 <br>
 <br>
-You can view all departments, roles, and all employees
+![screenshot](./public/images/screenshot1.png)
 <br>
 <br>
 <br>
-![screenshot](./public/assets/screenshot2.png)
+Click on the video (below) to watch the run through of the application 
 <br>
 <br>
-<br>
-You can add departments, roles, and employees
-<br>
-<br>
-<br>
-![screenshot](./public/assets/screenshot3.png)
-<br>
-<br>
-<br>
-You can then view your additions
-<br>
-<br>
-<br>
-![screenshot](./public/assets/screenshot4.png)
 <br>
 
+## Link to video walk through
+<https://drive.google.com/file/d/1xJdBNxqQO_lgahdjoNyrdzFNvMrR-0vm/view>
 
 
 ## Link to Github
 <https://github.com/jennyrae818/ecommerceBackend>
-
-## Link to video walk through
-<https://drive.google.com/file/d/1R5IlSPrv1dCRs3fFSrEGuuRAq5vtrg96/view>
 
 ## Questions
 
